@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="laz_project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="36" Y="8"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="laz_unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="50"/>
+        <CursorPos X="23" Y="112"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="CRC.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="2" Y="53"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="laz_project1.lpi"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="CRC2.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="CPU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="DECCipher.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos Y="38"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="DECUtil.pas"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="13" Y="52"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="DECFmt.pas"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="6" Y="2"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="DECHash.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="19" Y="85"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit9>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="278" Column="21" TopLine="264"/>
+      </Position1>
+      <Position2>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="371" Column="19" TopLine="347"/>
+      </Position2>
+      <Position3>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="532" Column="24" TopLine="523"/>
+      </Position3>
+      <Position4>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="570" Column="29" TopLine="558"/>
+      </Position4>
+      <Position5>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="601" Column="11" TopLine="578"/>
+      </Position5>
+      <Position6>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="614" Column="29" TopLine="599"/>
+      </Position6>
+      <Position7>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="616" Column="17" TopLine="599"/>
+      </Position7>
+      <Position8>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="619" Column="29" TopLine="599"/>
+      </Position8>
+      <Position9>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="625" Column="19" TopLine="601"/>
+      </Position9>
+      <Position10>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="631" Column="29" TopLine="607"/>
+      </Position10>
+      <Position11>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="636" Column="9" TopLine="612"/>
+      </Position11>
+      <Position12>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="677" Column="11" TopLine="653"/>
+      </Position12>
+      <Position13>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="678" Column="11" TopLine="654"/>
+      </Position13>
+      <Position14>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="679" Column="11" TopLine="655"/>
+      </Position14>
+      <Position15>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="716" Column="11" TopLine="692"/>
+      </Position15>
+      <Position16>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="717" Column="11" TopLine="693"/>
+      </Position16>
+      <Position17>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="719" Column="11" TopLine="695"/>
+      </Position17>
+      <Position18>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="722" Column="11" TopLine="699"/>
+      </Position18>
+      <Position19>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="723" Column="11" TopLine="700"/>
+      </Position19>
+      <Position20>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="726" Column="11" TopLine="703"/>
+      </Position20>
+      <Position21>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="727" Column="11" TopLine="704"/>
+      </Position21>
+      <Position22>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="2067" Column="10" TopLine="2043"/>
+      </Position22>
+      <Position23>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="2123" Column="10" TopLine="2099"/>
+      </Position23>
+      <Position24>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="2133" Column="10" TopLine="2109"/>
+      </Position24>
+      <Position25>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="3515" Column="32" TopLine="3491"/>
+      </Position25>
+      <Position26>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="3518" Column="9" TopLine="3494"/>
+      </Position26>
+      <Position27>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="3523" Column="41" TopLine="3500"/>
+      </Position27>
+      <Position28>
+        <Filename Value="DECHash.pas"/>
+        <Caret Line="3524" Column="30" TopLine="3500"/>
+      </Position28>
+      <Position29>
+        <Filename Value="laz_unit1.pas"/>
+        <Caret Line="113" Column="11" TopLine="93"/>
+      </Position29>
+      <Position30>
+        <Filename Value="laz_unit1.pas"/>
+        <Caret Line="114" Column="11" TopLine="94"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
